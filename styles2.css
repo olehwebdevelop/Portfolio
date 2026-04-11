@@ -173,7 +173,6 @@ body {
     top: 0;
     right: 0;
     width: 60%;
-    height: 350vh;
     padding-right: 10vh;
     overflow-y: auto;
     justify-content: center;
@@ -264,7 +263,7 @@ body {
 
 #projects {
     width: 80%;
-    min-height: 60vh;
+    min-height: 80vh;
     color: var(--text2);
     display: flex;
     flex-direction: column;
@@ -500,7 +499,7 @@ footer p {
         display: flex;
         justify-content: center;
         align-items: center;
-        top: 80%;
+        top: 85%;
         padding-right: 0;
     }
 
@@ -522,9 +521,17 @@ footer p {
         height: 5vh;
     }
 
+    #about {
+        margin-top: 0;
+        top: 20vh;
+    }
+
+    .experience-item {
+        top: 10vh;
+    }
+
     .main-item {
         width: 100%;
-        height: 400vh;
         position: absolute;
         top: 40%;
         padding-right: 0;
@@ -678,7 +685,7 @@ footer p {
     .main-item {
         overflow-y: hidden;
         top: 80vh;
-        height: 450vh;
+        height: 600vh;
     }
 
     #about {
