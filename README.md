@@ -32,6 +32,7 @@ This project was created to present frontend development work in a clean and pro
 ## Live Demo
 
 https://olehwebdevelop.github.io/Portfolio/
+
 ## GitHub
 
-[GitHub Repository Link]
+https://github.com/olehwebdevelop/Portfolio
